@@ -8,6 +8,8 @@ public class StudentOrderValidator {
         checkWedding();
         checkChildren();
         checkStudent();
+        checkChildren();
+        checkStudent();
     }
 
     static void checkCityRegister() {
